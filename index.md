@@ -12,20 +12,18 @@ title: ""
 
 | Lab          |  Group  |         Date          |                                     Lab Activity                                     |   TA    |
 | ------------ | :-----: | :-------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0        | A \\  B | 21.10.2020 22.10.2020 |                             Intro. to Programming in C#                              |  Kerem |
-| Lab 1.1      | A \\  B |  4.11.2020  5.11.2020 |                          Socket & Thread Programming in C#                           |  Kerem  |
-| Lab 1.2      | A \\  B | 11.11.2020 12.11.2020 |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Kerem, Yusa  |
+| Lab 0        | A \\  B | 21.10.2020 22.10.2020 |                             Intro. to Programming in C#                              |  Mustafa |
+| Lab 1.1      | A \\  B |  4.11.2020  5.11.2020 |                          Socket & Thread Programming in C#                           |  Mustafa  |
+| Lab 1.2      | A \\  B | 11.11.2020 12.11.2020 |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Mustafa  |
 | Lab 2        | A \\  B | 18.11.2020 19.11.2020 |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa |
-| Recitation 1 | A \\  B |  2.12.2020  3.12.2020 |             Recitation questions will be solved for Midterm (lab hours)              | Albert Levi |
-| Lab 3        | A \\  B | 23.12.2020 24.12.2020 |              DNS Server, HTTP Server, Web Server (to be graded in lab - to be extended if needed)               | Kerem |
-| Lab 4        | A \\  B |  6.01.2021  7.01.2021 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa [Zoom link](https://sabanciuniv.zoom.us/j/4080431438) |
+| Recitation 1 | A \\  B |  2.12.2020  3.12.2020 |             Recitation questions will be solved for Midterm (lab hours)              |  |
+| Lab 3        | A \\  B | 23.12.2020 24.12.2020 |              DNS Server, HTTP Server, Web Server (to be graded in lab - to be extended if needed)               | Mustafa |
+| Lab 4        | A \\  B |  6.01.2021  7.01.2021 | IP subnetting (to be graded via quiz that will be held together with the final exam) | Amir |
 
 
 # TA Information
 
-- F. Kerem Örs, *fkerem@sabanciuniv.edu*
 - Mustafa Aydın,  *mustafaaydin@sabanciuniv.edu*
-- M. Yusa Erguven, *merguven@sabanciuniv.edu*  
 - Amir Sepahi, *amirsepahi@sabanciuniv.edu*  
 
 # Office Hours
