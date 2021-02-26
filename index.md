@@ -5,7 +5,7 @@ title: ""
 ---
 
 # Annoucements
-- Office hours will start in the week of Oct. 19
+- Office hours will start in 3rd week.
 
 
 # Lab Schedule
