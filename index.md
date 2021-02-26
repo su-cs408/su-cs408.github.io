@@ -10,8 +10,8 @@ title: ""
 
 # Lab Schedule
 
-| Lab          |  Group  |         Date                 |                                     Lab Activity                                     |   TA    |
-| ------------ | :-----: | :--------------------------: | :----------------------------------------------------------------------------------: | :-----: |
+| Lab          |  Group  |         Date            |                                     Lab Activity                                     |   TA    |
+| ------------ | :-----: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
 | Lab 0        | 0 | Week 3 (March 8) |                             Intro. to Programming in C#                              |  Mustafa |
 | Lab 1.1      | 0 |  Week 4 (March 15) |                          Socket & Thread Programming in C#                           |  Mustafa  |
 | Lab 1.2      | 0 | Week 5 (March 22) |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Mustafa  |
