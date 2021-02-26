@@ -12,7 +12,7 @@ title: ""
 
 | Lab          |  Group  |         Date          |                                     Lab Activity                                     |   TA    |
 | ------------ | :-----: | :-------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0        | 0 | 21.10.2020 22.10.2020 |                             Intro. to Programming in C#                              |  Mustafa |
+| Lab 0        | 0 | Week 3 ( |                             Intro. to Programming in C#                              |  Mustafa |
 | Lab 1.1      | 0 |  4.11.2020  5.11.2020 |                          Socket & Thread Programming in C#                           |  Mustafa  |
 | Lab 1.2      | 0 | 11.11.2020 12.11.2020 |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Mustafa  |
 | Lab 2        | 0 | 18.11.2020 19.11.2020 |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa |
@@ -41,6 +41,6 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   14:40   |                     |  |                 |  |  |
 |   15:40   |                     |  |                 |                 |  |
 |   16:40   |    Lecture                 |  |                 |  ||
-|   17:40   |  |               										 |                 |  ||
-|   18:40   |  |               										 |                 |                 |                     |
+|   17:40   |  Lab |               										 |                 |  ||
+|   18:40   |  Lab |               										 |                 |                 |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
