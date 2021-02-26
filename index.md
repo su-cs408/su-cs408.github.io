@@ -33,7 +33,7 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
 |   08:40   | 				 	  |       										 | Lecture                |                 |                     |
-|   09:40   | 		 	  |        										 |                 | Lecture                |                     |
+|   09:40   | 		 	  |        										 | Lecture                |                 |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
 |   11:40   |                     |  |  |  ||
 |   12:40   |                     |  |  | ||
@@ -44,6 +44,3 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   17:40   |  |               										 |                 |  ||
 |   18:40   |  |               										 |                 |                 |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
-
-
-\* Extra office hours are just for the week of 4.1.2021, not permanent. 
