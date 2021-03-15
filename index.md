@@ -40,6 +40,6 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   14:40   | Mustafa Aydın [Link](https://whereby.com/mustafaaydin)                   |  |                 |  |  |
 |   15:40   |                     |  |                 |                 |  |
 |   16:40   |    Lecture                 |  |                 |  ||
-|   17:40   |  Lab |               										 |                 |  ||
-|   18:40   |  Lab |               										 |                 |                 |                     |
+|   17:40   |  Lab |               										 |                 | Amir Sepahi  ||
+|   18:40   |  Lab |               										 |                 | Amir Sepahi                |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
