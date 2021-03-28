@@ -36,10 +36,12 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   10:40   |                     |               										 |                 |  			     |                     |
 |   11:40   |                     |  |  |  ||
 |   12:40   |                     |  |  | ||
-|   13:40   | Mustafa Aydın [Link](https://whereby.com/mustafaaydin)                   |  |                 |  |                     |
-|   14:40   | Mustafa Aydın [Link](https://whereby.com/mustafaaydin)                   |  |                 |  |  |
+|   13:40   | Mustafa Aydın [Link](https://whereby.com/mustafaaydin) *                  |  |                 |  |                     |
+|   14:40   | Mustafa Aydın [Link](https://whereby.com/mustafaaydin) *                  |  |                 |  |  |
 |   15:40   |                     |  |                 |                 |  |
 |   16:40   |    Lecture                 |  |                 |  ||
 |   17:40   |  Lab |               										 |                 | Amir Sepahi [Link](https://whereby.com/cs408-projects) ||
 |   18:40   |  Lab |               										 |                 | Amir Sepahi [Link](https://whereby.com/cs408-projects)               |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
+
+- test
