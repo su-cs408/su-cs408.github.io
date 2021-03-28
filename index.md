@@ -44,4 +44,4 @@ Office Hours will be held via Whereby and the links for each assistant are in th
 |   18:40   |  Lab |               										 |                 | Amir Sepahi [Link](https://whereby.com/cs408-projects)               |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
 
-- * For this week, I will held my office hour between 12:40 and 14:00. (Mustafa)
+- /* For this week, I will held my office hour between 12:40 and 14:00. (Mustafa)
