@@ -5,7 +5,7 @@ title: ""
 ---
 
 # Annoucements
-- Office hours will start in 3rd week and the times will be determined soon.
+- Office hours will start in 3rd week. You can find the details for the office hours below after arrangement.
 
 
 # Lab Schedule
