@@ -14,7 +14,7 @@ title: ""
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
 | Lab 0 **(Online)**        |  Week 3 (October 11)|                             Intro. to Programming in C#                              |  Kerem |
 | Lab 1.1 **(Online)**      |  Week 4 (October 18) |                          Socket & Thread Programming in C#                           |  Kerem  |
-| Lab 1.2      |  Week 6 (March 29) |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438)  |
+| Lab 1.2 **(Hybrid)**      |  Week 6 (November 1) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa  |
 | Lab 2        |  Week 7 (April 5) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa [Zoom Link](https://sabanciuniv.zoom.us/j/6988554191) |
 | Lab 3        |  Week 11 (May 3) |              DNS Server, HTTP Server, Web Server (to be graded in lab - to be extended if needed)               | Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438) |
 | Lab 4        |  Week 14 (May 24) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Amir |
