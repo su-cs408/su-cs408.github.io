@@ -12,8 +12,8 @@ title: ""
 
 | Lab          |        Date            |                                     Lab Activity                                     |   TA    |
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0        |  Week 3 (March 8)|                             Intro. to Programming in C#                              |  Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438) |
-| Lab 1.1      |  Week 4 (March 15) |                          Socket & Thread Programming in C#                           |  Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438)  |
+| Lab 0 **(Online)**        |  Week 3 (October 11)|                             Intro. to Programming in C#                              |  Kerem |
+| Lab 1.1 **(Online)**      |  Week 4 (October 18) |                          Socket & Thread Programming in C#                           |  Kerem  |
 | Lab 1.2      |  Week 6 (March 29) |                Socket & Thread In-lab Practice (to be graded in lab - to be extended if needed)                 |  Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438)  |
 | Lab 2        |  Week 7 (April 5) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |   Yusa [Zoom Link](https://sabanciuniv.zoom.us/j/6988554191) |
 | Lab 3        |  Week 11 (May 3) |              DNS Server, HTTP Server, Web Server (to be graded in lab - to be extended if needed)               | Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438) |
