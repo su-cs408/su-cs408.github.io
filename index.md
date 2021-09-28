@@ -31,7 +31,7 @@ title: ""
 
 # Office Hours
 
-Office hours will be held online via Whereby and the links for each assistant are in the table below. 
+Office hours will be held online via Whereby and the links for each TA are in the table below. 
 
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
