@@ -5,7 +5,7 @@ title: ""
 ---
 
 # Annoucements
-- Office hours will start in 3rd week. You can find the details for the office hours below after arrangement.
+- Office hours will start in the 3rd week. You can find the details for the office hours below after arrangement.
 - Details about the labs will be announced via SuCourse+ when lab time approaches and you will be also able to find the Zoom link in the corresponding TA column for the labs.
 
 
