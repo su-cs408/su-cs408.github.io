@@ -13,13 +13,13 @@ title: ""
 
 | Lab          |        Date            |                                     Lab Activity                                     |   TA    |
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0 **(Online)**        |  Week 3 (October 11)|                             Intro. to Programming in C#                              |  Kerem |
-| Lab 1.1 **(Online)**      |  Week 4 (October 18) |                          Socket & Thread Programming in C#                           |  Kerem  |
-| Lab 1.2 **(Hybrid)**      |  Week 6 (November 1) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa  |
-| Lab 2 **(Online)**       |  Week 7 (November 8) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge  |
-| Recitation **(Hybrid)**   |  Week 9 (November 22) | Recitation for Midterm (Lab Hours) | Albert Levi |
-| Lab 3 **(Hybrid)**  |  Week 12 (December 13) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Kerem |
-| Lab 4 **(Online)**  |  Week 13 (December 20) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
+| Lab 0 **(Online)**        |  Week 3 - October 11 (A) / October 14 (B)|                             Intro. to Programming in C#                              |  Kerem |
+| Lab 1.1 **(Online)**      |  Week 4 - October 18 (A) / October 21 (B) |                          Socket & Thread Programming in C#                           |  Kerem  |
+| Lab 1.2 **(Hybrid)**      |  Week 6 - November 1 (A) / November 4 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa  |
+| Lab 2 **(Online)**       |  Week 7 - November 8 (A) / November 11 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge  |
+| Recitation **(Hybrid)**   |  Week 9 - November 22 (A) / November 25 (B) | Recitation for Midterm (Lab Hours) | Albert Levi |
+| Lab 3 **(Hybrid)**  |  Week 12 - December 13 (A) / December 17 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Kerem |
+| Lab 4 **(Online)**  |  Week 13 - December 20 (A) / December 23 (B) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
 
 
 # TA Information
