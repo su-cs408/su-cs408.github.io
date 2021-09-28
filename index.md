@@ -34,15 +34,15 @@ Office hours will be held online via Whereby and the links for each assistant ar
 
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
-|   08:40   | 	Lab A			 	  |       										 | Lecture                |                 |                     |
-|   09:40   |  Lab A		 	  |        										 | Lecture                |                 |                     |
+|   08:40   | 	Lab A			 	  |       										 |                 | Lecture                |                     |
+|   09:40   |  Lab A		 	  |        										 |                | Lecture                 |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   |                     |  |  | Lecture ||
+|   11:40   |                     |  |  |  ||
 |   12:40   |                     |  |  | Lab B||
 |   13:40   |                   | Lecture |                 | Lab B  |                     |
 |   14:40   |                  | Lecture  |                 |  |  |
 |   15:40   |                  |  |                 |                 |  |
-|   16:40   |    Lecture                 |  |                 |  ||
+|   16:40   |                     |  |                 |  ||
 |   17:40   | |               										 |                 |  ||
 |   18:40   |  |               										 |                 |                |                     |
 |   19:40   |                     |                                                      |                 |                 |                     |
