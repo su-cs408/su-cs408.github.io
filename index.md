@@ -7,6 +7,7 @@ title: ""
 # Annoucements
 - Office hours will start in the 3rd week. You can find the details for the office hours below after arrangement.
 - Details about the labs will be announced via SuCourse+ when lab time approaches and you will be also able to find the Zoom link in the corresponding TA column for the labs.
+- Even for online labs, our lab classroom (FENS L045) is reserved for us; if you need a space to sit and watch, you can use there.
 
 
 # Lab Schedule
