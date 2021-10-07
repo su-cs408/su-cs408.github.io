@@ -14,7 +14,7 @@ title: ""
 
 | Lab          |        Date            |                                     Lab Activity                                     |   TA    |
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0 **(Online)**        |  Week 3 <br/> October 11 (A) October 14 (B)|                             Intro. to Programming in C#                              |  Kerem |
+| Lab 0 **(Online)**        |  Week 3 <br/> October 11 (A) October 14 (B)|                             Intro. to Programming in C#                              |  Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508) |
 | Lab 1.1 **(Online)**      |  Week 4 <br/> October 18 (A) October 21 (B) |                          Socket & Thread Programming in C#                           |  Kerem  |
 | Lab 1.2 **(Hybrid)**      |  Week 6 <br/> November 1 (A) November 4 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa  |
 | Lab 2 **(Online)**       |  Week 7 <br/> November 8 (A) November 11 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge  |
