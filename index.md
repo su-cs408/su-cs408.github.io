@@ -36,15 +36,14 @@ Office hours will be held online via Whereby and the links for each TA are in th
 
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
-|   08:40   | 	Lab A			 	  |       										 |                 |                 |                     |
-|   09:40   |  Lab A		 	  |        										 |                |                  |                     |
+|   08:40   | 	Lab A			 	  |       										 |   Mustafa              |                 |                     |
+|   09:40   |  Lab A		 	  |        										 | Mustafa               |                  |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   |                     |  |  | Lecture ||
-|   12:40   |                     |  |  | Lab B||
+|   11:40   | Kerem                    |  |  | Lecture ||
+|   12:40   | Kerem                    |  |  | Lab B||
 |   13:40   |                   | Lecture |                 | Lab B  |                     |
 |   14:40   |                  | Lecture  |                 |  |  |
 |   15:40   |                  |  |                 |                 |  |
 |   16:40   |                     |  |                 |  ||
-|   17:40   | |               										 |                 |  ||
-|   18:40   |  |               										 |                 |                |                     |
-|   19:40   |                     |                                                      |                 |                 |                     |
+|   17:40   | |               										 |                 |  | Simge|
+|   18:40   |  |               										 |                 |                |  Simge                   |
