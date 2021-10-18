@@ -39,8 +39,8 @@ Office hours will be held online via Whereby and the links for each TA are in th
 |   08:40   | 	Lab A			 	  |       										 |   Mustafa              |                 |                     |
 |   09:40   |  Lab A		 	  |        										 | Mustafa               |                  |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   | Kerem                    |  |  | Lecture ||
-|   12:40   | Kerem                    |  |  | Lab B||
+|   11:40   | Kerem [Whereby Link](https://whereby.com/fkerem)                   |  |  | Lecture ||
+|   12:40   | Kerem [Whereby Link](https://whereby.com/fkerem)                   |  |  | Lab B||
 |   13:40   |                   | Lecture |                 | Lab B  |                     |
 |   14:40   |                  | Lecture  |                 |  |  |
 |   15:40   |                  |  |                 |                 |  |
