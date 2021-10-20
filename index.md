@@ -32,7 +32,7 @@ title: ""
 
 # Office Hours
 
-Office hours will be held online via Whereby and the links for each TA are in the table below. 
+Office hours will be held online via Whereby or Zoom and the links for each TA are in the table below. 
 
 | Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
 | :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
@@ -45,5 +45,5 @@ Office hours will be held online via Whereby and the links for each TA are in th
 |   14:40   |                  | Lecture  |                 |  |  |
 |   15:40   |                  |  |                 |                 |  |
 |   16:40   |                     |  |                 |  ||
-|   17:40   | |               										 |                 |  | Simge|
-|   18:40   |  |               										 |                 |                |  Simge                   |
+|   17:40   | |               										 |                 |  | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/92073326398?pwd=OUkyVVpvK1hKdUZEaXBXbXh1ZFFWZz09)|
+|   18:40   |  |               										 |                 |                |  Simge [Zoom Link](https://sabanciuniv.zoom.us/j/92073326398?pwd=OUkyVVpvK1hKdUZEaXBXbXh1ZFFWZz09)                   |
