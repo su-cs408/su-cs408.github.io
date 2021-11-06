@@ -17,7 +17,7 @@ title: ""
 | Lab 0 **(Online)**        |  Week 3 <br/> October 11 (A) October 14 (B)|                             Intro. to Programming in C#                              |  Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508) |
 | Lab 1.1 **(Online)**      |  Week 4 <br/> October 18 (A) October 21 (B) |                          Socket & Thread Programming in C#                           |  Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
 | Lab 1.2 **(Hybrid)**      |  Week 6 <br/> November 1 (A) November 4 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
-| Lab 2 **(Online)**       |  Week 7 <br/> November 8 (A) November 11 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge  |
+| Lab 2 **(Online)**       |  Week 7 <br/> November 8 (A) November 11 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)  |
 | Recitation **(Hybrid)**   |  Week 9 <br/> November 22 (A) November 25 (B) | Recitation for Midterm (Lab Hours) | Albert Levi |
 | Lab 3 **(Hybrid)**  |  Week 12 <br/> December 13 (A) December 16 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Kerem |
 | Lab 4 **(Online)**  |  Week 13 <br/> December 20 (A) December 23 (B) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa |
