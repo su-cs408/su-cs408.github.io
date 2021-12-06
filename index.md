@@ -39,8 +39,8 @@ Office hours will be held online via Whereby or Zoom and the links for each TA a
 |   08:40   | 	Lab A			 	  |       										 |   Mustafa [Whereby Link](https://whereby.com/mustafaaydin)              |                 |                     |
 |   09:40   |  Lab A		 	  |        										 | Mustafa [Whereby Link](https://whereby.com/mustafaaydin)              |                  |                     |
 |   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   | Kerem [Whereby Link](https://whereby.com/fkerem)                   |  |  | Lecture ||
-|   12:40   | Kerem [Whereby Link](https://whereby.com/fkerem)                   |  |  | Lab B||
+|   11:40   | Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)                   |  |  | Lecture ||
+|   12:40   | Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)                   |  |  | Lab B||
 |   13:40   |                   | Lecture |                 | Lab B  |                     |
 |   14:40   |                  | Lecture  |                 |  |  |
 |   15:40   |                  |  |                 |                 |  |
