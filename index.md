@@ -14,36 +14,40 @@ title: ""
 
 | Lab          |        Date            |                                     Lab Activity                                     |   TA    |
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
-| Lab 0 **(Online)**        |  Week 3 <br/> October 11 (A) October 14 (B)|                             Intro. to Programming in C#                              |  Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508) |
-| Lab 1.1 **(Online)**      |  Week 4 <br/> October 18 (A) October 21 (B) |                          Socket & Thread Programming in C#                           |  Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
-| Lab 1.2 **(Hybrid)**      |  Week 6 <br/> November 1 (A) November 4 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Kerem & Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)  |
-| Lab 2 **(Online)**       |  Week 7 <br/> November 8 (A) November 11 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)  |
-| Recitation **(Hybrid)**   |  Week 9 <br/> November 22 (A) November 25 (B) | Recitation for Midterm (Lab Hours) | Albert Levi |
-| Lab 3 **(Hybrid)**  |  Week 12 <br/> December 13 (A) December 16 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508) |
-| Lab 4 **(Online)**  |  Week 13 <br/> December 20 (A) December 23 (B) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Mustafa [Zoom Link](https://sabanciuniv.zoom.us/j/4080431438) |
+| Lab 0        |  Week 3 <br/> October 17 (A) October 19 (B)|                             Intro. to Programming in C#                              |  Simge  |
+| Lab 1.1      |  Week 4 <br/> October 24 (A) October 26 (B) |                          Socket & Thread Programming in C#                           |  Simge   |
+| Lab 1.2      |  Week 6 <br/> November 7 (A) November 9 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Simge & Emre & Begüm  |
+| Lab 2        |  Week 7 <br/> November 14 (A) November 16 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Begüm   |
+| Recitation   |  Week 9 <br/> November 28 (A) November 30 (B) | Recitation for Midterm (Lab Hours) | Albert Levi |
+| Lab 3   |  Week 12 <br/> December 19 (A) December 21 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Emre & Begüm & Simge |
+| Lab 4   |  Week 13 <br/> December 26 (A) December 28 (B) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Emre |
 
 
 # TA Information
 
 - Simge Demir, *simgedemir@sabanciuniv.edu*  
-- Faik Kerem Örs, *fkerem@sabanciuniv.edu*
-- Mustafa Aydın,  *mustafaaydin@sabanciuniv.edu*
+- Emre Ekmekçioğlu, *eekmekcioglu@sabanciuniv.edu*
+- Begüm Arslanhan,  *arslanhanbegum@sabanciuniv.edu*
 
 
 # Office Hours
 
-Office hours will be held online via Whereby or Zoom and the links for each TA are in the table below. 
+Office hours will be held online via Zoom and the links for each TA are in the table below. 
 
-| Hour/ Day |     **Monday**      |  **Tuesday**  										 |  **Wednesday**  |  **Thursday**   |     **Friday**      |
-| :-------: | :-----------------: | :-----------: 										 | :-------------: | :-------------: | :-----------------: |
-|   08:40   | 	Lab A			 	  |       										 |   Mustafa [Whereby Link](https://whereby.com/mustafaaydin)              |                 |                     |
-|   09:40   |  Lab A		 	  |        										 | Mustafa [Whereby Link](https://whereby.com/mustafaaydin)              |                  |                     |
-|   10:40   |                     |               										 |                 |  			     |                     |
-|   11:40   | Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)                   |  |  | Lecture ||
-|   12:40   | Kerem [Zoom Link](https://sabanciuniv.zoom.us/j/8690028508)                   |  |  | Lab B||
-|   13:40   |                   | Lecture |                 | Lab B  |                     |
-|   14:40   |                  | Lecture  |                 |  |  |
-|   15:40   |                  |  |                 |                 |  |
-|   16:40   |                     |  |                 |  ||
-|   17:40   | |               										 |                 |  | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/92073326398?pwd=OUkyVVpvK1hKdUZEaXBXbXh1ZFFWZz09)|
-|   18:40   |  |               										 |                 |                |  Simge [Zoom Link](https://sabanciuniv.zoom.us/j/92073326398?pwd=OUkyVVpvK1hKdUZEaXBXbXh1ZFFWZz09)                   |
+| Hour/ Day |     **Monday**      |  **Tuesday** |  **Wednesday**  |  **Thursday**   |     **Friday**      |
+| :-------: | :-----------------: | :-----------:| :-------------: | :-------------: | :-----------------: |
+|   08:40   |			 	      |       		 |                 |                 |
+|   09:40   | 		 	          |        		 |                 |                 |                     |
+|   10:40   |                     |              |  			   | Lecture         |
+|   11:40   |                     |              |                 | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)               |                     |
+|   12:40   | Lecture             | Emre             |                 | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)               |                     |
+|   13:40   | Lecture             | Emre             |                 |                 |                     |
+|   14:40   |                     |              |                 |                 |                     |
+|   15:40   |                     |              |                 |                 |                     |
+|   16:40   | Lab A               |              |                 |                 |                     |
+|   17:40   | Lab A               |              | Lab B           |                 |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                  |
+|   18:40   |                     |              | Lab B           |                 |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                   |
+
+
+
+
