@@ -16,10 +16,10 @@ title: ""
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
 | Lab 0        |  Week 3 <br/> October 17 (A) October 19 (B)|                             Intro. to Programming in C#                              |  Simge  |
 | Lab 1.1      |  Week 4 <br/> October 24 (A) October 26 (B) |                          Socket & Thread Programming in C#                           |  Simge   |
-| Lab 1.2      |  Week 6 <br/> November 7 (A) November 9 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must either online or physically)                 |  Simge & Emre & Begüm  |
+| Lab 1.2      |  Week 6 <br/> November 7 (A) November 9 (B) |                Socket & Thread In-lab Practice (to be graded in lab, attendance is a must physically)                 |  Simge & Emre & Begüm  |
 | Lab 2        |  Week 7 <br/> November 14 (A) November 16 (B) |        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Begüm   |
 | Recitation   |  Week 9 <br/> November 28 (A) November 30 (B) | Recitation for Midterm (Lab Hours) | Albert Levi |
-| Lab 3   |  Week 12 <br/> December 19 (A) December 21 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must either online or physically)               | Emre & Begüm & Simge |
+| Lab 3   |  Week 12 <br/> December 19 (A) December 21 (B) |              DNS Server, HTTP Server, Web Server (to be graded in lab, attendance is a must physically)               | Emre & Begüm & Simge |
 | Lab 4   |  Week 13 <br/> December 26 (A) December 28 (B) | IP subnetting (to be graded via quiz that will be held together with the final exam) | Emre |
 
 
