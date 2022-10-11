@@ -40,13 +40,13 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   09:40   | 		 	          |        		 |                 |                 |                     |
 |   10:40   |                     |              |  			   | Lecture         |
 |   11:40   |                     |              |                 | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)               |                     |
-|   12:40   | Lecture             | Emre             |                 | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)               |                     |
-|   13:40   | Lecture             | Emre             |                 |                 |                     |
+|   12:40   | Lecture             |             |                 | Simge [Zoom Link](https://sabanciuniv.zoom.us/j/7395411642?pwd=bkJpZXdoa3JHNFo1R215TlUvZTJVZz09)               |                     |
+|   13:40   |Lecture             |              |                 |                 |                     |
 |   14:40   |                     |              |                 |                 |                     |
 |   15:40   |                     |              |                 |                 |                     |
-|   16:40   | Lab A               |              |                 |                 |                     |
-|   17:40   | Lab A               |              | Lab B           |                 |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                  |
-|   18:40   |                     |              | Lab B           |                 |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                   |
+|   16:40   | Lab A               | Emre [Zoom Link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)              |                 |                |                      |
+|   17:40   | Lab A               | Emre [Zoom Link](https://sabanciuniv.zoom.us/j/4338792918?pwd=VFkzZGNxYXIyelpyTExpc211MXZjUT09)             | Lab B           |                 |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                  |
+|   18:40   |                     |              | Lab B           |                |  Begüm [Zoom Link](https://sabanciuniv.zoom.us/j/6119892969?pwd=YVBMV2tkbXRhUEpLMFY1MmNiaEhBUT09)                   |
 
 
 
