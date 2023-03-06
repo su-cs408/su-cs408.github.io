@@ -15,7 +15,7 @@ title: ""
 | Lab          |        Date            |                                     Lab Activity                                     |   TA    |
 | :------------: | :---------------------: | :----------------------------------------------------------------------------------: | :-----: |
 | Lab 0        |  Week 2 <br/> March 9 (A) March 10 (B)  | Intro. to Programming in C#                                          |  Müge  |
-| Lab 1.1      |  Week 3 <br/> March 23 (A)  March 24 (B) | Socket & Thread Programming in C#                                    |  Müge  |
+| Lab 1.1      |  Week 3 <br/> March 16 (A)  March 17 (B) | Socket & Thread Programming in C#                                    |  Müge  |
 | Lab 1.2      |  Week 5 <br/> March 30 (A)  March 31 (B) | Socket & Thread In-lab Practice (to be graded in lab, details will be announced later)          |  Müge & Emre & Begüm  |
 | Lab 2        |  Week 6  <br/> April 6 (A) <br/> April 7 (B) <br/> (tentative)|        Packet Capture & Analysis Using Wireshark (to be graded via homework)         |  Begüm   |
 | Recitation   |  Week 9 <br/> April 27 (A) <br/> April 28 (B) | Recitation for Midterm (Lab Hours) | Kürşat Çağıltay |
