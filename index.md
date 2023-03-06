@@ -29,7 +29,6 @@ title: ""
 - Emre Ekmekçioğlu, *eekmekcioglu@sabanciuniv.edu*
 - Begüm Arslanhan,  *arslanhanbegum@sabanciuniv.edu*
 
-
 # Office Hours
 
 Office hours will be held online via Zoom and the links for each TA are in the table below. 
