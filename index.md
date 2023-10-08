@@ -26,7 +26,7 @@ title: ""
 # TA Information
 
 - Simge Demir, *simgedemir@sabanciuniv.edu*  
-- Alize Sevgi, *alizesevgi@sabanciuniv.edu*
+- Alize Sevgi Yalçınkaya, *alizesevgi@sabanciuniv.edu*
 - Yasin Ughur,  *yasinughur@sabanciuniv.edu*
 
 # Office Hours
@@ -38,9 +38,9 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   08:40   |			 	      |       		 |                 |            |                     |
 |   09:40   | 		 	          |        		 |                 |             |                     |
 |   10:40   |                     |              |  		   |Yasin [Zoom Link](https://sabanciuniv.zoom.us/j/92948293882)                 |                     |
-|   11:40   |                     |Simge              |           |Yasin [Zoom Link](https://sabanciuniv.zoom.us/j/92948293882)                 |                     |
-|   12:40   |Lecture                     |Simge              |Alize                 |                 |              |
-|   13:40   |Lecture                     |              |Alize                 |                 |              |
+|   11:40   |                     |Simge [Zoom Link](https://sabanciuniv.zoom.us/j/97501603938?pwd=Z3hiZHZjR2NRZGs3NktpWjQ5UEpLZz09)              |           |Yasin [Zoom Link](https://sabanciuniv.zoom.us/j/92948293882)                 |                     |
+|   12:40   |Lecture                     |Simge [Zoom Link](https://sabanciuniv.zoom.us/j/97501603938?pwd=Z3hiZHZjR2NRZGs3NktpWjQ5UEpLZz09)              |Alize [Zoom Link](https://us05web.zoom.us/j/81555296897?pwd=yMkaDPSEkSdErNYQ1m4dM83wSCgbWi.1)                |                 |              |
+|   13:40   |Lecture                     |              |Alize [Zoom Link](https://us05web.zoom.us/j/81555296897?pwd=yMkaDPSEkSdErNYQ1m4dM83wSCgbWi.1)                |                 |              |
 |   14:40   |                     |              |                 |                 |                |
 |   15:40   |                     |Lecture              |                 |                 |                |
 |   16:40   |Lab A                     |         |          |            |                     |
