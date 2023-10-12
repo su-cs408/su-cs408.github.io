@@ -44,5 +44,5 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   14:40   |                     |              |                 |                 |                |
 |   15:40   |                     |Lecture              |                 |                 |                |
 |   16:40   |Lab A                     |         |          |            |                     |
-|   17:40   |Lab A                     |Lab B         |                 |            |                     |
-|   18:40   |                     |Lab B              |                 |                 |                     |
+|   17:40   |Lab A                     |         |Lab B                 |            |                     |
+|   18:40   |                     |              |Lab B                 |                 |                     |
