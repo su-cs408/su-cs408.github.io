@@ -20,8 +20,8 @@ title: ""
 |  Lab 2  |    Week 6 <br/> March 22 (A)  March 21 (B)    |           Packet Capture & Analysis Using Wireshark (to be graded via homework)            |         Simge         |
 |  Lab 3.1  |        Week 7 <br/> April 5 (A) <br/> April 4 (B)        | Network Topology with Cisco | Simge |
 |  Lab 3.2  |        Week 9 <br/> April 19 (A) <br/> April 18 (B)        | Network Topology with Cisco (to be graded in lab, details will be announced later) |        Simge, Yasin         |
-|  Lab 4.1  |        Week 11 <br/> May 3 (A) <br/> May 2 (B)        | IP Subnetting (to be graded in lab, details will be announced later) |        Yasin         |
-|  Lab 4.2  |        Week 12 <br/> May 10 (A) <br/> May 9 (B)        | IP Subnetting with Cisco (to be graded in lab, details will be announced later) |        Yasin         |
+|  Lab 4.1  |        Week 11 <br/> May 10 (A) <br/> May 9 (B)        | IP Subnetting (to be graded in lab, details will be announced later) |        Yasin         |
+|  Lab 4.2  |        Week 12 <br/> May 17 (A) <br/> May 16 (B)        | IP Subnetting with Cisco (to be graded in lab, details will be announced later) |        Yasin         |
 
 
 # TA Information
