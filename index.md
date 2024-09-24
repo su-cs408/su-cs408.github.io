@@ -26,8 +26,10 @@ title: ""
 
 # TA Information
 
-- Simge Demir, *simgedemir@sabanciuniv.edu*  
-- Yasin Ughur,  *yasinughur@sabanciuniv.edu*
+- Alaa ALMOURADI - *alaaalmouradi@sabanciuniv.edu*  
+- Saleh ALSHURAFA - *saleh@sabanciuniv.edu*
+- Recep YILDIRIM - *recep.yildirim@sabanciuniv.edu*
+- Alize Sevgi YALÇINKAYA - *alizesevgi@sabanciuniv.edu*
 
 # Office Hours
 
