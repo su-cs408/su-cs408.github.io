@@ -1,4 +1,4 @@
-# Sabanci University CS 408 TA & Lab Website
+# Sabanci University CS 408 - Computer Networks Lab and TA Website
 
 This website is used to inform students about lab sessions.
 
