@@ -7,21 +7,21 @@ title: ""
 # Announcements
 - Office hours will be online. All will start in the 3rd week. Details for the office hours can be found in the table below.
 - Details about the labs will be announced via SuCourse when lab time approaches.
-- Our lab classroom will be announced.
+- Our lab is FENS L045.
 
 
 # Lab Schedule
 
 |   Lab   |                     Date                      |                                        Lab Activity                                        |          TA          |
 |:-------:|:---------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------:|
-|  Lab 0  | Week 2 <br/> February 23 (A) February 22 (B)  |                                Intro. to Programming in C#                                 |        Yasin         |
-| Lab 1.1 |   Week 3 <br/> March 1 (A)  February 29 (B)   |                             Socket & Thread Programming in C#                              |        Yasin         |
-| Lab 1.2 | Week 5  <br/> March 15 (A) <br/> March 14 (B) |   Socket & Thread In-lab Practice (to be graded in lab, details will be announced later)   | Simge & Yasin |
-|  Lab 2  |    Week 6 <br/> March 22 (A)  March 21 (B)    |           Packet Capture & Analysis Using Wireshark (to be graded via homework)            |         Simge         |
-|  Lab 3.1  |  Week 8 <br/> April 5 (A) <br/> April 4 (B)   | Network Topology with Cisco | Simge |
-|  Lab 3.2  | Week 10 <br/> April 19 (A) <br/> April 18 (B) | Network Topology with Cisco (to be graded in lab, details will be announced later) |        Simge, Yasin         |
-|  Lab 4.1  |    Week 12 <br/> May 10 (A) <br/> May 9 (B)    | IP Subnetting (to be graded in lab, details will be announced later) |        Yasin         |
-|  Lab 4.2  |   Week 13 <br/> May 17 (A) <br/> May 16 (B)    | IP Subnetting with Cisco (to be graded in lab, details will be announced later) |        Yasin, Simge         |
+|  Lab 1.1 |   Week 3 <br/> October 7 (A)  October 9 (B)   |                            Multi-Threading and GUI in Python                              |        Recep, Alaa         |
+|  Lab 1.2 | Week 4  <br/> October 14 (A) <br/> October 16 (B) |   Sockets in Python   | Recep |
+|  Lab 1.3 |    Week 5 <br/> October 21 (A)  October 23 (B)    |           Sockets, Threading (*in-lab exercise, will be graded*)            |         Recep, Alaa, Saleh, Alize         |
+|  Lab 2   | Week 7 <br/> November 4 (A) <br/> November 6 (B) | Packet Capture and Analysis with Wireshark |        Saleh |
+|  Lab 3 Prep.  |    Week 8 <br/> November 11 (A) <br/> November 13 (B)    | Cisco Packet Tracer Setup |       Saleh, Alaa          |
+|  Lab 3.1 |   Week 11 <br/> December 2 (A) <br/> December 4 (B)    | Cisco Packet Tracer Demo| Saleh, Alaa         |
+|  Lab 3.2 |   Week 13 <br/> December 16 (A) <br/> December 18 (B)    | Cisco Packet Tracer (*in-lab performance*) |        Saleh, Alaa, Alize, Recep         |
+|  Lab 4   |   Week 14 <br/> December 23 (A) <br/> December 25 (B)    | IP Subnetting |        Alize         |
 
 
 # TA Information
