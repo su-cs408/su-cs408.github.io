@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b7c83499-4b40-4c8d-8f95-d8b5d42d310e)---
 layout: page
 permalink: /
 title: ""
@@ -42,7 +42,7 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   09:40   |                                               		 	                                        |                              		                           |                                                              |              |            |
 |   10:40   |                                                                                                   |                                                              |                              		                          |              |            |
 |   11:40   | Recep [Zoom Link](https://sabanciuniv.zoom.us/my/recep.yildirim) |                                                              |                                                              |              |            |
-|   12:40   | Lecture  | Saleh [Zoom Link](https://sabanciuniv.zoom.us/j/99335439180)    |                                                   |   Alize [Zoom Link]()        |     |
+|   12:40   | Lecture  | Saleh [Zoom Link](https://sabanciuniv.zoom.us/j/99335439180)    |                                                   |   Alize [Zoom Link](https://us05web.zoom.us/j/88617128334?pwd=vuOZkKlTEQpXaUqbmCJWeRQxriSdWT.1)        |     |
 |   13:40   | Lecture | Saleh [Zoom Link](https://sabanciuniv.zoom.us/j/99335439180)                                                   |                                                              |              |     |
 |   14:40   |  | Lecture  | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)                                                        |              |      |
 |   15:40   |  |   | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)                                  |              |       |
