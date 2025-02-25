@@ -15,7 +15,7 @@ title: ""
 |   Lab   |                     Date                      |                                        Lab Activity                                        |          TA          |
 |:-------:|:---------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------:|
 |  Lab 1.1 |   Week 3 <br/> February 20 (A)  February 21 (B)   |                            Multi-Threading and GUI in Python                              |        Emre, Alaa         |
-|  Lab 1.2 | Week 4  <br/> February 27 (A) <br/> Fberuary 28 (B) |   Sockets in Python   | Emre, Alaa |
+|  Lab 1.2 | Week 4  <br/> February 27 (A) <br/> Fberuary 28 (B) |   Sockets in Python   | Emre |
 |  Lab 1.3 |    Week 5 <br/> March 6 (A)  March 7 (B)    |           Sockets, Threading (*in-lab exercise, will be graded*)            |         Emre, Alaa         |
 
 
