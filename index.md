@@ -14,9 +14,10 @@ title: ""
 
 |   Lab   |                     Date                      |                                        Lab Activity                                        |          TA          |
 |:-------:|:---------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------:|
-|  Lab 1.1 |   Week 3 <br/> February 20 (A)  February 21 (B)   |                            Multi-Threading and GUI in Python                              |        Emre, Alaa         |
-|  Lab 1.2 | Week 4  <br/> February 27 (A) <br/> Fberuary 28 (B) |   Sockets in Python   | Emre |
-|  Lab 1.3 |    Week 5 <br/> March 6 (A)  March 7 (B)    |           Sockets, Threading (*in-lab exercise, will be graded*)            |         Emre, Alaa         |
+|  Lab 1.1 |   Week 3 <br/> February 21 (A)  February 20 (B)   |                            Multi-Threading and GUI in Python                              |        Emre, Alaa         |
+|  Lab 1.2 | Week 4  <br/> February 28 (A) <br/> Fberuary 27 (B) |   Sockets in Python   | Emre |
+|  Lab 1.3 |    Week 5 <br/> March 7 (A)  March 6 (B)    |           Sockets, Threading (*in-lab exercise, will be graded*)            |         Emre, Alaa         |
+|  Lab 2 |    Week 7 <br/> March 21 (A)  March 20 (B)    |     Packet capture & analysis with Wireshark                  | Sama        |
 
 
 # TA Information
