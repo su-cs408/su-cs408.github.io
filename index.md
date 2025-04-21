@@ -18,6 +18,9 @@ title: ""
 |  Lab 1.2 | Week 4  <br/> February 28 (A) <br/> Fberuary 27 (B) |   Sockets in Python   | Emre |
 |  Lab 1.3 |    Week 5 <br/> March 7 (A)  March 6 (B)    |           Sockets, Threading (*in-lab exercise, will be graded*)            |         Emre, Alaa         |
 |  Lab 2 |    Week 7 <br/> March 21 (A)  March 20 (B)    |     Packet capture & analysis with Wireshark                  | Sama        |
+|  Lab 3 |    Week 11 <br/> April 25 (A)  April 24 (B)    |     Cisco                  | Alaa        |
+|  Lab 4 |    Week 11 <br/> May 9 (A)  May 8 (B)    |     Cisco  *in-lab exercise, will be graded*)                | Alaa        |
+|  Lab 5 |    Week 13 <br/> May 23 (A)  May 22 (B)    |     IP Subnetting                | Alaa        |
 
 
 # TA Information
