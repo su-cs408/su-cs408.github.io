@@ -25,16 +25,17 @@ title: ""
 | Week 10  | 1.12     | MIDTERM EXAM (within that week) <br/> Lab 3.1 (Cisco lecture and demo @ 1 ve 3.12) | Cisco                                            | Lab 3.1: Saleh <br/> Proctoring: all TAs   |
 | Week 11  | 8.12     | Lab 3.2 (Cisco – in-lab performance @ 8 ve 10.12)        | Cisco (in-lab)                                    | Lab 3.2: Saleh (lead), others support      |
 | Week 12  | 15.12    | Project Due 19.12 <br/> Lab 4 (15 ve 17.12)              | IP Subnetting <br/> Quiz Prep & Grading (Alize)   | Lab 4: Alize                               |
-| Week 13  | 22.12    | Project Demo and Grading (deadline 26.12)                | Criteria setting, grading coordination, etc.       | Alaa (lead), Alize, Saleh, Demir           |
-| Week 14  | 29.12    | Project Second Chance Demo (deadline 3.1.2026)           | Demos the week after                              |All                                        |
+| Week 13  | 22.12    | Project Demo and Grading (grading deadline 26.12)                | | Alaa (lead-criteria setting), Alize (grade coordination), Saleh, Demir           |
+| Week 14  | 29.12    | Project Second Chance Demo (deadline 3.1.2026; Demos the week after)           |                               |All                                        |
 
 
 
 # TA Information
 
 - Alaa ALMOURADI - *alaaalmouradi@sabanciuniv.edu*  
-- Emre KOCER - *kocer@sabanciuniv.edu*
-- Sama HABIBI - *samahabibi@sabanciuniv.edu*
+- Alize - *kocer@sabanciuniv.edu*
+- Saleh  - *samahabibi@sabanciuniv.edu*
+- Demir BOGA - *demirboga@sabanciuniv.edu*
 
 # Office Hours
 
@@ -44,12 +45,12 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |:---------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|:------------:|:----------:|
 |   08:40   |          |            |                                                              |              |   Lecture         |
 |   09:40   |          |            |                                                              |              |            |
-|   10:40   |          |            |                                                              |              |   Sama [Zoom Link](https://sabanciuniv.zoom.us/j/6395029220)         |
-|   11:40   |          |            | Lecture                                                      |              |            |
+|   10:40   |          |  Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)           |                                                              |              |            |
+|   11:40   |          | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)            | Lecture                                                      |              |            |
 |   12:40   |          |            | Lecture                                                      |              |            |
-|   13:40   |          |            | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)  |              |    |
-|   14:40   |          |            | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)  | Emre [Zoom Link](https://sabanciuniv.zoom.us/j/5270482292)             | Lab A |
-|   15:40   |          |            |      |  Emre [Zoom Link](https://sabanciuniv.zoom.us/j/5270482292)            | Lab A           |
+|   13:40   |          |            |  |              |    |
+|   14:40   |          |            |   |             | Lab A |
+|   15:40   |          |            |      |             | Lab A           |
 |   16:40   |          |            |      |   Lab B           |            |
 |   17:40   |          |            |      |   Lab B           |            |
 |   18:40   |          |            |      |              |            |
