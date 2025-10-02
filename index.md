@@ -15,9 +15,7 @@ title: ""
 |   Lab   |                     Date                      |                                        Lab Activity                                        |          TA          |
 |:-------:|:---------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------:|
 |  Lab 1.1 |   Week 3 <br/> October 13 (A)  October 15 (B)   |                            Python Multithreading, GUI and Sockets                               |        Alaa         |
-|  Lab 1.2 | Week 4  <br/> October 20 (A) <br/> October 22 (B) & HW1 Due 27.10 (Grade: Alize) |   Warm-up Lab   | Alaa (lead),
-Saleh, Demir, Alize support |
-|  |    Week 5 <br/> No lab    |                       |                  |
+|  Lab 1.2 | Week 4  <br/> October 20 (A) <br/> October 22 (B) & HW1 Due 27.10 (Grade: Alize) |   Warm-up Lab   | Alaa (lead), Saleh, Demir, Alize support |
 |  Lab 1.3 |    Week 6 <br/> November 3 (A)  November 5 (B) & Project Asgn. 7.11 (Text: Alize)
 No lab  |     Socket, Thread in-lab exercise (to be graded)  | Alaa (lead) Demir, Saleh and Alize support     |
 |  Lab 3 |    Week 11 <br/> April 25 (A)  April 24 (B)    |     Cisco                  | Alaa        |
