@@ -32,10 +32,10 @@ title: ""
 
 # TA Information
 
-- Alaa ALMOURADI - *alaaalmouradi@sabanciuniv.edu*  
+- Alaa Almouradi - *alaaalmouradi@sabanciuniv.edu*  
 - Alize Sevgi Yalçınkaya - *alizesevgi@sabanciuniv.edu*
 - Saleh Alshurafa  - *saleh@sabanciuniv.edu*
-- Demir BOGA - *demirboga@sabanciuniv.edu*
+- Demir Boğa - *demirboga@sabanciuniv.edu*
 
 # Office Hours
 
@@ -49,7 +49,7 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   11:40   |          | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)            |                                               |              | Saleh [Zoom Link](https://sabanciuniv.zoom.us/j/99335439180)           |
 |   12:40   |    Lecture      |            |                                                       |              |            |
 |   13:40   |    Lecture      |            |  |              |    |
-|   14:40   |          |            |   |             |  |
+|   14:40   |          |  Lecture          |   |             |  |
 |   15:40   |          |            |      |             |            |
 |   16:40   |   Lab A      |            |      |            |            |
 |   17:40   |   Lab A       |            |  Lab B     |             |            |
