@@ -33,8 +33,8 @@ title: ""
 # TA Information
 
 - Alaa ALMOURADI - *alaaalmouradi@sabanciuniv.edu*  
-- Alize - *kocer@sabanciuniv.edu*
-- Saleh  - *samahabibi@sabanciuniv.edu*
+- Alize Sevgi Yalçınkaya - *alizesevgi@sabanciuniv.edu*
+- Saleh Alshurafa  - *saleh@sabanciuniv.edu*
 - Demir BOGA - *demirboga@sabanciuniv.edu*
 
 # Office Hours
@@ -43,14 +43,14 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 
 | Hour/ Day |                                            **Monday**                                             |                         **Tuesday**                          |                        **Wednesday**                         | **Thursday** | **Friday** |
 |:---------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|:------------:|:----------:|
-|   08:40   |          |            |                                                              |              |   Lecture         |
+|   08:40   |          |            |                                                              |              |          |
 |   09:40   |          |            |                                                              |              |            |
 |   10:40   |          |  Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)           |                                                              |              |            |
-|   11:40   |          | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)            | Lecture                                                      |              |            |
-|   12:40   |          |            | Lecture                                                      |              |            |
-|   13:40   |          |            |  |              |    |
-|   14:40   |          |            |   |             | Lab A |
-|   15:40   |          |            |      |             | Lab A           |
-|   16:40   |          |            |      |   Lab B           |            |
-|   17:40   |          |            |      |   Lab B           |            |
-|   18:40   |          |            |      |              |            |
+|   11:40   |          | Alaa [Zoom Link](https://sabanciuniv.zoom.us/j/3486886770?omn=94957925581)            |                                               |              | Saleh [Zoom Link](https://sabanciuniv.zoom.us/j/99335439180)           |
+|   12:40   |    Lecture      |            |                                                       |              |            |
+|   13:40   |    Lecture      |            |  |              |    |
+|   14:40   |          |            |   |             |  |
+|   15:40   |          |            |      |             |            |
+|   16:40   |   Lab A      |            |      |            |            |
+|   17:40   |   Lab A       |            |  Lab B     |             |            |
+|   18:40   |          |            |   Lab B    |              |            |
