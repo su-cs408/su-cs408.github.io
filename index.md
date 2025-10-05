@@ -19,7 +19,7 @@ title: ""
 | Week 6 | 3.11 | Lab 1.3 3.11 (A) and 5.11 (B) | Socket, Thread in-lab exercise (to be graded) | Alaa (lead), Demir, Saleh, Alize support |
 | Week 7 | 10.11 | Lab 2 10.11 (A) and 12.11 (B)| Packet capture & analysis with Wireshark |Demir|
 | Week 9 | 24.11 | Recitation for Midterm (lab hours), Albert (24.11 and 26.11) | | |
-| Week 10 | 1.12 | MIDTERM EXAM (within that week) / Lab 3.1 Cisco lecture and demo  1.12 (A) and 3.12 (B) | Cisco | Saleh / Proctoring: all TAs |
+| Week 10 | 1.12 | Lab 3.1 Cisco lecture and demo  1.12 (A) and 3.12 (B) | Cisco | Saleh / Proctoring: all TAs |
 | Week 11 | 8.12 | Lab 3.2 Cisco - in-lab performance 8.12 (A) and 10.12 (B) | Cisco (in-lab) | Saleh (lead), others support |
 | Week 12 | 15.12 |Lab 4 15.12 (A) ve 17.12 (B) | IP Subnetting |Alize |
 
