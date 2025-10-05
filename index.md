@@ -12,7 +12,7 @@ title: ""
 
 # Lab Schedule
 | Week | Date | Lab / HW / Project | Activity | TA |
-|:----:|:----:|:------------------:|:---------:|:--:|
+|:----:|:----:|:------------------:|:---------:|:---:|
 | Week 1 | 29.9 | - | Lab Content | |
 | Week 2 | 6.10 | - | | |
 | Week 3 | 13.10 | Lab 1.1 (13 and 15.10) / HW1 Asgn. 17.10 | Python Multithreading, GUI and Sockets | Lab 1.1: Alaa |
