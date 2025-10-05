@@ -41,5 +41,4 @@ titles_from_headings:
   strip_title: true
   collections: false 
 
-kramdown:
-  input: GFM
+
