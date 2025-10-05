@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /
 title: ""
 ---
@@ -11,8 +11,9 @@ title: ""
 
 
 # Lab Schedule
+
 | Week | Date | Lab / HW / Project | Activity | TA |
-|:----:|:----:|:------------------:|:---------:|:---:|
+|:---:|:---:|:---|:---|:---:|
 | Week 1 | 29.9 | - | Lab Content | |
 | Week 2 | 6.10 | - | | |
 | Week 3 | 13.10 | Lab 1.1 (13 and 15.10) / HW1 Asgn. 17.10 | Python Multithreading, GUI and Sockets | Lab 1.1: Alaa |
@@ -23,10 +24,11 @@ title: ""
 | Week 8 | 17.11 | HW2 Due 20.11 (Grader: Demir) / Group manager (Demir) / No Lab (reserved for extra lecture) | | |
 | Week 9 | 24.11 | Recitation for Midterm (lab hours), Albert (24 and 26.11) | | |
 | Week 10 | 1.12 | MIDTERM EXAM (within that week) / Lab 3.1 (Cisco lecture and demo @ 1 ve 3.12) | Cisco | Lab 3.1: Saleh / Proctoring: all TAs |
-| Week 11 | 8.12 | Lab 3.2 (Cisco – in-lab performance @ 8 ve 10.12) | Cisco (in-lab) | Lab 3.2: Saleh (lead), others support |
+| Week 11 | 8.12 | Lab 3.2 (Cisco - in-lab performance @ 8 ve 10.12) | Cisco (in-lab) | Lab 3.2: Saleh (lead), others support |
 | Week 12 | 15.12 | Project Due 19.12 / Lab 4 (15 ve 17.12) | IP Subnetting / Quiz Prep & Grading (Alize) | Lab 4: Alize |
 | Week 13 | 22.12 | Project Demo and Grading (grading deadline 26.12) | Criteria setting, grading coordination, etc. | Alaa (lead-criteria setting), Alize (grade coordination), Saleh, Demir |
 | Week 14 | 29.12 | Project Second Chance Demo (deadline 3.1.2026; Demos the week after) | | All |
+
 
 
 
