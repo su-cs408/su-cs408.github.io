@@ -20,8 +20,8 @@ title: ""
 | Week 7 | 10.11 | Lab 2:  10.11 (A) and 12.11 (B)| Packet capture & analysis with Wireshark (to be graded via homework) |Demir|
 | Week 8 | 17.11 | No Lab (reserved for extra lecture) | | |
 | Week 9 | 24.11 | Recitation for Midterm (lab hours), 24.11 and 26.11 | | |
-| Week 10 | 1.12 | Lab 3.1:  1.12 (A) and 3.12 (B) | Cisco lecture and demo  | Saleh |
-| Week 11 | 8.12 | Lab 3.2:  8.12 (A) and 10.12 (B) | Cisco (to be graded in lab) | Saleh (lead), others support |
+| Week 10 | 1.12 | Lab 3.1:  1.12 (A) and 3.12 (B) | Cisco Network Simulator (lecture and demo) | Saleh |
+| Week 11 | 8.12 | Lab 3.2:  8.12 (A) and 10.12 (B) | Cisco Network Simulator in-lab exercise (to be graded in lab) | Saleh (lead), others support |
 | Week 12 | 15.12 |Lab 4:  15.12 (A) ve 17.12 (B) | IP Subnetting (to be graded via quiz to be done later) |Alize |
 
 
