@@ -11,6 +11,17 @@ title: ""
 
 
 # Lab Schedule
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #666;
+  padding: 6px 10px;
+  text-align: center;
+}
+</style>
 |   Week   |   Date   |                    Lab / HW / Project                   |                      Activity                      |                     TA                     |
 |:--------:|:--------:|:--------------------------------------------------------:|:-------------------------------------------------:|:------------------------------------------:|
 | Week 1   | 29.9     | -                                                        | Lab Content                                       |                                            |
