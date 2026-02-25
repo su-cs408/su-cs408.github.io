@@ -48,7 +48,7 @@ Office hours will be held online via Zoom and the links for each TA are in the t
 |   12:40   |          |            |      Lecture                                                | Demir [Zoom Link](https://sabanciuniv.zoom.us/j/91846043552)              |            |
 |   13:40   |          |            |  |              |    |
 |   14:40   |          |            |   |             | Lab A |
-|   15:40   |          |     Arsalan [Zoom Link]([https://sabanciuniv.zoom.us/j/91846043552](https://meet.google.com/pmj-rduk-oxy))       |      |      Arsalan [Zoom Link]([https://sabanciuniv.zoom.us/j/91846043552](https://meet.google.com/pmj-rduk-oxy))      |  Lab A          |
-|   16:40   |          |   Arsalan [Zoom Link]([https://sabanciuniv.zoom.us/j/91846043552](https://meet.google.com/pmj-rduk-oxy))         |      |      Lab B      |            |
+|   15:40   |          |     Arsalan [Link]((https://meet.google.com/pmj-rduk-oxy))       |      |      Arsalan [Link]((https://meet.google.com/pmj-rduk-oxy))      |  Lab A          |
+|   16:40   |          |   Arsalan [Link]((https://meet.google.com/pmj-rduk-oxy))         |      |      Lab B      |            |
 |   17:40   |          |            ||    Lab B         |            |
-|   18:40   |          |            | Can Korkmaz 19.00-21.30  [Zoom Link](meet.google.com/skt-oeea-jyt ) |              |            |
+|   18:40   |          |            | Can Korkmaz 19.00-21.30  [Link](meet.google.com/skt-oeea-jyt ) |              |            |
