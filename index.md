@@ -19,8 +19,8 @@ title: ""
 | Week 6 | 23.03 | Lab 1.3:  27.03 (A) and 26.03 (B) | Socket, Thread in-lab exercise (to be graded in lab) |
 | Week 7 | 30.03 | Lab 2:  03.04 (A) and 02.0.4 (B)| Packet capture & analysis with Wireshark (to be graded via homework) |
 | Week 10 | 20.04 | Lab 3.1:  24.04 (A) and 23.04 (B) | Cisco Network Simulator (lecture and demo) |
-| Week 11 | 07.05 | Lab 3.2:  1.05 (A) and 30.04 (B) | Cisco Network Simulator in-lab exercise (to be graded in lab) |
-| Week 12 | 21.05 |Lab 4:  08.05 (A) ve 07.05 (B) | ECMP Load Distribution in Leaf-Spine Networks |
+| Week 11 | 04.05 | Lab 3.2:  8.05 (A) and 7.05 (B) | Cisco Network Simulator in-lab exercise (to be graded in lab) |
+| Week 12 | 18.05 |Lab 4:  22.05 (A) ve 21.05 (B) | ECMP Load Distribution in Leaf-Spine Networks |
 
 
 
