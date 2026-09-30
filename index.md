@@ -22,12 +22,12 @@ title: ""
 | Week 6  |  Nov 2  | Lab 1.3: 02.11 (A) and 04.11 (B) | Socket, Thread in-lab exercise (to be graded in lab)                 | Can (lead) Verda, Armin and Ege |
 | Week 7  |  Nov 9  | Lab 2: 09.11 (A) and 11.11 (B)   | Packet capture & analysis with Wireshark (to be graded via homework) |               Ege               |
 | Week 8  | Nov 16  | - No Lab -                       |                                                                      |                                 |
-| Week 9  | Nov 23  | 23.11 & 25.11                    | Recitation for Midterm (lab hours)                                   |                                 |
+| Week 9  | Nov 23  | 23.11 & 25.11                    | Recitation for Midterm (lab hours)                                   |             Albert              |
 | Week 10 | Nov 30  | - No Lab -                       |                                                                      |                                 |
-| Week 11 |  Dec 7  | Lab 3.1: 07.12 (A) and 09.12 (B) | Cisco lecture and demo                                               |              Armin              |
+| Week 11 |  Dec 7  | Lab 3.1: 07.12 (A) and 09.12 (B) | Cisco Network Simulator lecture and demo                             |              Armin              |
 | Week 12 | Dec 14  | Lab 3.2: 14.12 (A) and 16.12 (B) | Cisco Network Simulator in-lab exercise (to be graded in lab)        | Armin (lead) Verda, Can and Ege |
 | Week 13 | Dec 21  | - No Lab -                       |                                                                      |                                 |
-| Week 14 | Dec 28  | Lab 4: 28.12 (A) and 30.12 (B)   | IP Subnetting                                                        |              Verda              |
+| Week 14 | Dec 28  | Lab 4: 28.12 (A) and 30.12 (B)   | IP Subnetting (to be graded via a quiz later)                        |              Verda              |
 
 # TA Information
 
