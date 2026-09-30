@@ -6,7 +6,7 @@ title: ""
 
 # Announcements
 
-- Office hours will be online. All will start in the 1st week. Details for the office hours can be found in the table below.
+- Office hours will be online. All will start in the 3rd week. Details for the office hours can be found in the table below.
 - Details about the labs will be announced via SuCourse when lab time approaches.
 - Our lab is FENS L045 for both Monday and Wednesday sessions.
 
