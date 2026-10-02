@@ -40,16 +40,16 @@ title: ""
 
 Office hours will be held online via Zoom and the links for each TA are in the table below.
 
-| Hour/ Day | **Monday** | **Tuesday** |                        **Wednesday**                        | **Thursday** | **Friday** |
-| :-------: | :--------: | :---------: | :---------------------------------------------------------: | :----------: | :--------: |
-|   08:40   |            |             |                                                             |              |            |
-|   09:40   |            |             |                                                             |              |            |
-|   10:40   |            |             |                                                             |              |            |
-|   11:40   |            |             |                                                             |              |            |
-|   12:40   |  Lecture   |             | Can<br>[Meeting Link](https://meet.google.com/qbs-bfgp-bdt) |              |            |
-|   13:40   |  Lecture   |             |                                                             |              |            |
-|   14:40   |            |   Lecture   |                                                             |              |            |
-|   15:40   |            |             |                                                             |              |            |
-|   16:40   |   Lab A    |             |                                                             |              |            |
-|   17:40   |   Lab A    |             |                            Lab B                            |              |            |
-|   18:40   |            |             |                            Lab B                            |              |            |
+| Hour/ Day |                         **Monday**                          |                          **Tuesday**                          |                         **Wednesday**                         | **Thursday** | **Friday** |
+| :-------: | :---------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :----------: | :--------: |
+|   08:40   |                                                             | Verda<br>[Meeting Link](https://meet.google.com/ekk-eyzx-gve) |                                                               |              |            |
+|   09:40   | Ege<br>[Meeting Link](https://meet.google.com/equ-beaj-fhi) |                                                               | Armin<br>[Meeting Link](https://meet.google.com/fjw-gfyb-otp) |              |            |
+|   10:40   |                                                             |                                                               |                                                               |              |            |
+|   11:40   |                                                             |                                                               |                                                               |              |            |
+|   12:40   |                           Lecture                           |                                                               |  Can<br>[Meeting Link](https://meet.google.com/qbs-bfgp-bdt)  |              |            |
+|   13:40   |                           Lecture                           |                                                               |                                                               |              |            |
+|   14:40   |                                                             |                            Lecture                            |                                                               |              |            |
+|   15:40   |                                                             |                                                               |                                                               |              |            |
+|   16:40   |                            Lab A                            |                                                               |                                                               |              |            |
+|   17:40   |                            Lab A                            |                                                               |                             Lab B                             |              |            |
+|   18:40   |                                                             |                                                               |                             Lab B                             |              |            |
